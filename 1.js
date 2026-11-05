@@ -1,2 +1,2 @@
 const name = 'krishna'
-let apple = "Apple"
+let apple = "Apple" 
